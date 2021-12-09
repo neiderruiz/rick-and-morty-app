@@ -17,4 +17,4 @@ get clone https://github.com/neiderruiz/rick-and-morty-app.git
 npm i or npm install
 
 *after* 
-npm run estart
+npm run start
