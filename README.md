@@ -10,7 +10,7 @@
 
 ## run project
 
-*firt*
+*first*
 get clone https://github.com/neiderruiz/rick-and-morty-app.git
 
 *second*
