@@ -1,0 +1,6 @@
+.hero {
+    background-image: url('../images/hero-background-desktop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
