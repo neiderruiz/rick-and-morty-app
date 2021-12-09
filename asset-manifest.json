@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.7053f15c.chunk.css",
-    "main.js": "/static/js/main.2fd2bc99.chunk.js",
-    "main.js.map": "/static/js/main.2fd2bc99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d0a0546c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d0a0546c.js.map",
-    "static/js/2.4926b587.chunk.js": "/static/js/2.4926b587.chunk.js",
-    "static/js/2.4926b587.chunk.js.map": "/static/js/2.4926b587.chunk.js.map",
-    "static/js/3.8bb2a023.chunk.js": "/static/js/3.8bb2a023.chunk.js",
-    "static/js/3.8bb2a023.chunk.js.map": "/static/js/3.8bb2a023.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7053f15c.chunk.css.map": "/static/css/main.7053f15c.chunk.css.map",
-    "static/js/2.4926b587.chunk.js.LICENSE.txt": "/static/js/2.4926b587.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/hero-background-desktop.743e9da1.png",
-    "static/media/icon-arrow-bold.872277ed.svg": "/static/media/icon-arrow-bold.872277ed.svg",
-    "static/media/icon-arrow.4c578f3f.svg": "/static/media/icon-arrow.4c578f3f.svg",
-    "static/media/icon-close.9a84e3d0.svg": "/static/media/icon-close.9a84e3d0.svg",
-    "static/media/logo.e41b50bc.png": "/static/media/logo.e41b50bc.png"
+    "main.css": "/rick-and-morty-app/static/css/main.1d85d9a6.chunk.css",
+    "main.js": "/rick-and-morty-app/static/js/main.2fd2bc99.chunk.js",
+    "main.js.map": "/rick-and-morty-app/static/js/main.2fd2bc99.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-app/static/js/runtime-main.4a0945b4.js",
+    "runtime-main.js.map": "/rick-and-morty-app/static/js/runtime-main.4a0945b4.js.map",
+    "static/js/2.4926b587.chunk.js": "/rick-and-morty-app/static/js/2.4926b587.chunk.js",
+    "static/js/2.4926b587.chunk.js.map": "/rick-and-morty-app/static/js/2.4926b587.chunk.js.map",
+    "static/js/3.8bb2a023.chunk.js": "/rick-and-morty-app/static/js/3.8bb2a023.chunk.js",
+    "static/js/3.8bb2a023.chunk.js.map": "/rick-and-morty-app/static/js/3.8bb2a023.chunk.js.map",
+    "index.html": "/rick-and-morty-app/index.html",
+    "static/css/main.1d85d9a6.chunk.css.map": "/rick-and-morty-app/static/css/main.1d85d9a6.chunk.css.map",
+    "static/js/2.4926b587.chunk.js.LICENSE.txt": "/rick-and-morty-app/static/js/2.4926b587.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/rick-and-morty-app/static/media/hero-background-desktop.743e9da1.png",
+    "static/media/icon-arrow-bold.872277ed.svg": "/rick-and-morty-app/static/media/icon-arrow-bold.872277ed.svg",
+    "static/media/icon-arrow.4c578f3f.svg": "/rick-and-morty-app/static/media/icon-arrow.4c578f3f.svg",
+    "static/media/icon-close.9a84e3d0.svg": "/rick-and-morty-app/static/media/icon-close.9a84e3d0.svg",
+    "static/media/logo.e41b50bc.png": "/rick-and-morty-app/static/media/logo.e41b50bc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0a0546c.js",
+    "static/js/runtime-main.4a0945b4.js",
     "static/js/2.4926b587.chunk.js",
-    "static/css/main.7053f15c.chunk.css",
+    "static/css/main.1d85d9a6.chunk.css",
     "static/js/main.2fd2bc99.chunk.js"
   ]
 }
